@@ -1,0 +1,20 @@
+{
+  "files": {
+    "cogs/modCommands.py": [
+      {
+        "id": "7c0001db-d656-428c-bffd-f2ad17063686",
+        "line": 141,
+        "version": 5743,
+        "index": 3736
+      }
+    ],
+    "main.py": [
+      {
+        "id": "d83e31a9-746a-446a-bdc5-e0fd8a597c79",
+        "line": 537,
+        "version": 2019,
+        "index": 14836
+      }
+    ]
+  }
+}

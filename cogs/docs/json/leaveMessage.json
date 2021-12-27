@@ -1,0 +1,12 @@
+[
+    {
+        "serverID": 807770342381846528,
+        "channelID": 873217502254104607,
+        "leaveMessage": "User %user% has left"
+    },
+    {
+        "serverID": 897104077106855956,
+        "channelID": 897134561459310633,
+        "leaveMessage": "**%user% has left Dizunatsu**"
+    }
+]
